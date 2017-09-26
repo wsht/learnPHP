@@ -1,0 +1,7 @@
+{
+    "require-dev": {
+    },
+    "require": {
+        "eaglewu/swoole-ide-helper": "dev-master"
+    }
+}
